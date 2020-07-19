@@ -1,8 +1,9 @@
 body
 {
-    background: url(https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/81071159_602486810295952_9113440587977064448_o.jpg?_nc_cat=101&_nc_sid=0debeb&_nc_ohc=XijjDMmNr3MAX8jSUkb&_nc_ht=scontent.fhyd2-1.fna&oh=2c68529ea11314f666eff0515973a870&oe=5F3A792A);
+    background: url(https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/81071159_602486810295952_9113440587977064448_o.jpg?_nc_cat=101&_nc_sid=0debeb&_nc_ohc=XijjDMmNr3MAX8jSUkb&_nc_ht=scontent.fhyd2-1.fna&oh=2c68529ea11314f666eff0515973a870&oe=5F3A792A) no-repeat;
     background-size: cover;
     background-position: center;
+    
 }
 
 body, html
