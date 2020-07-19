@@ -20,7 +20,7 @@ h1
     font-size:5em;
 
 }
-.midtext
+.midtext, h3, btn
 { 
     padding-top: 25%;
     text-align: center;
